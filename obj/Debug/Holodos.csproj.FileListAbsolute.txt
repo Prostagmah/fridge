@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\Holodos\Holodos\bin\Debug\Holodos.exe.config
+C:\Users\User\source\repos\Holodos\Holodos\bin\Debug\Holodos.exe
+C:\Users\User\source\repos\Holodos\Holodos\bin\Debug\Holodos.pdb
+C:\Users\User\source\repos\Holodos\Holodos\obj\Debug\Holodos.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Holodos\Holodos\obj\Debug\Holodos.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Holodos\Holodos\obj\Debug\Holodos.exe
+C:\Users\User\source\repos\Holodos\Holodos\obj\Debug\Holodos.pdb
